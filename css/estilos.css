@@ -5,5 +5,7 @@ body {
 h1 {
     font-size: 2rem;
     color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
 
